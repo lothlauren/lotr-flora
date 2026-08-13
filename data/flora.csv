@@ -1,0 +1,330 @@
+Plant,Real?,name,Chapter,Count,Volume,Book,Order
+ivy,yes,yes,A Long-expected Party,1,The Fellowship of the Ring,1,1
+potatoes (taters),yes,no,A Long-expected Party,3,The Fellowship of the Ring,1,1
+primula,yes,yes,A Long-expected Party,1,The Fellowship of the Ring,1,1
+cabbages,yes,no,A Long-expected Party,1,The Fellowship of the Ring,1,1
+snapdragon,yes,no,A Long-expected Party,1,The Fellowship of the Ring,1,1
+sunflower,yes,no,A Long-expected Party,1,The Fellowship of the Ring,1,1
+nasturtian,yes,no,A Long-expected Party,1,The Fellowship of the Ring,1,1
+melilot,yes,yes,A Long-expected Party,1,The Fellowship of the Ring,1,1
+lobelia,yes,yes,A Long-expected Party,8,The Fellowship of the Ring,1,1
+elm,yes,no,The Shadow of the Past,3,The Fellowship of the Ring,1,2
+iris,yes,no,The Shadow of the Past,1,The Fellowship of the Ring,1,2
+reed,yes,no,The Shadow of the Past,2,The Fellowship of the Ring,1,2
+alder,yes,no,Three is Company,1,The Fellowship of the Ring,1,3
+fir,yes,no,Three is Company,3,The Fellowship of the Ring,1,3
+oak,yes,no,Three is Company,2,The Fellowship of the Ring,1,3
+hazel (filbert),yes,no,Three is Company,1,The Fellowship of the Ring,1,3
+willow,yes,yes,Three is Company,1,The Fellowship of the Ring,1,3
+birch,yes,no,Three is Company,1,The Fellowship of the Ring,1,3
+sloe,yes,no,Three is Company,1,The Fellowship of the Ring,1,3
+ivy,yes,yes,Three is Company,1,The Fellowship of the Ring,1,3
+apple,yes,yes,Three is Company,3,The Fellowship of the Ring,1,3
+corn,yes,no,Three is Company,1,The Fellowship of the Ring,1,3
+lobelia,yes,yes,Three is Company,5,The Fellowship of the Ring,1,3
+elm,yes,no,A Short Cut to Mushrooms,2,The Fellowship of the Ring,1,4
+oak,yes,no,A Short Cut to Mushrooms,1,The Fellowship of the Ring,1,4
+fern,yes,yes,A Short Cut to Mushrooms,1,The Fellowship of the Ring,1,4
+brambles,yes,no,A Short Cut to Mushrooms,1,The Fellowship of the Ring,1,4
+ash,yes,no,A Short Cut to Mushrooms,1,The Fellowship of the Ring,1,4
+rush,yes,yes,A Short Cut to Mushrooms,1,The Fellowship of the Ring,1,4
+briar,yes,no,A Short Cut to Mushrooms,1,The Fellowship of the Ring,1,4
+turnips,yes,no,A Short Cut to Mushrooms,1,The Fellowship of the Ring,1,4
+reed,yes,no,A Conspiracy Unmasked,1,The Fellowship of the Ring,1,5
+alder,yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+oak,yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+brambles,yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+ash,yes,no,The Old Forest,2,The Fellowship of the Ring,1,6
+hemlock,yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+nettle,yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+fire-weed,yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+pine,yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+willow,yes,yes,The Old Forest,22,The Fellowship of the Ring,1,6
+water-lily,yes,no,The Old Forest,7,The Fellowship of the Ring,1,6
+heather (ling),yes,yes,The Old Forest,1,The Fellowship of the Ring,1,6
+rush,yes,yes,The Old Forest,1,The Fellowship of the Ring,1,6
+thistle,yes,yes,The Old Forest,1,The Fellowship of the Ring,1,6
+apple,yes,yes,The Old Forest,1,The Fellowship of the Ring,1,6
+parsley (wood-parsley),yes,no,The Old Forest,1,The Fellowship of the Ring,1,6
+reed,yes,no,The Old Forest,6,The Fellowship of the Ring,1,6
+brambles,yes,no,In the House of Tom Bombadil,1,The Fellowship of the Ring,1,7
+willow,yes,yes,In the House of Tom Bombadil,11,The Fellowship of the Ring,1,7
+water-lily,yes,no,In the House of Tom Bombadil,4,The Fellowship of the Ring,1,7
+flag-lily,yes,no,In the House of Tom Bombadil,1,The Fellowship of the Ring,1,7
+forget-me-not,yes,no,In the House of Tom Bombadil,2,The Fellowship of the Ring,1,7
+beans,yes,no,In the House of Tom Bombadil,2,The Fellowship of the Ring,1,7
+rush,yes,yes,In the House of Tom Bombadil,3,The Fellowship of the Ring,1,7
+apple,yes,yes,In the House of Tom Bombadil,1,The Fellowship of the Ring,1,7
+reed,yes,no,In the House of Tom Bombadil,2,The Fellowship of the Ring,1,7
+willow,yes,yes,Fog on the Barrow-downs,2,The Fellowship of the Ring,1,8
+flax,yes,no,Fog on the Barrow-downs,1,The Fellowship of the Ring,1,8
+butterbur,yes,yes,Fog on the Barrow-downs,1,The Fellowship of the Ring,1,8
+reed,yes,no,Fog on the Barrow-downs,1,The Fellowship of the Ring,1,8
+fern,yes,yes,At the Sign of The Prancing Pony,1,The Fellowship of the Ring,1,9
+heather (ling),yes,yes,At the Sign of The Prancing Pony,1,The Fellowship of the Ring,1,9
+butterbur,yes,yes,At the Sign of The Prancing Pony,19,The Fellowship of the Ring,1,9
+rush,yes,yes,At the Sign of The Prancing Pony,1,The Fellowship of the Ring,1,9
+thistle,yes,yes,At the Sign of The Prancing Pony,1,The Fellowship of the Ring,1,9
+mugwort,yes,yes,At the Sign of The Prancing Pony,4,The Fellowship of the Ring,1,9
+barley,yes,yes,At the Sign of The Prancing Pony,1,The Fellowship of the Ring,1,9
+blackberry,yes,no,At the Sign of The Prancing Pony,1,The Fellowship of the Ring,1,9
+apple,yes,yes,At the Sign of The Prancing Pony,1,The Fellowship of the Ring,1,9
+fern,yes,yes,Strider,6,The Fellowship of the Ring,1,10
+butterbur,yes,yes,Strider,20,The Fellowship of the Ring,1,10
+barley,yes,yes,Strider,3,The Fellowship of the Ring,1,10
+alder,yes,no,A Knife in the Dark,1,The Fellowship of the Ring,1,11
+fern,yes,yes,A Knife in the Dark,10,The Fellowship of the Ring,1,11
+hemlock,yes,no,A Knife in the Dark,3,The Fellowship of the Ring,1,11
+butterbur,yes,yes,A Knife in the Dark,8,The Fellowship of the Ring,1,11
+rush,yes,yes,A Knife in the Dark,1,The Fellowship of the Ring,1,11
+linden,yes,no,A Knife in the Dark,1,The Fellowship of the Ring,1,11
+beech,yes,yes,A Knife in the Dark,1,The Fellowship of the Ring,1,11
+apple,yes,yes,A Knife in the Dark,4,The Fellowship of the Ring,1,11
+reed,yes,no,A Knife in the Dark,3,The Fellowship of the Ring,1,11
+fir,yes,no,Flight to the Ford,1,The Fellowship of the Ring,1,12
+hazel (filbert),yes,no,Flight to the Ford,1,The Fellowship of the Ring,1,12
+fern,yes,yes,Flight to the Ford,2,The Fellowship of the Ring,1,12
+pine,yes,no,Flight to the Ford,4,The Fellowship of the Ring,1,12
+heather (ling),yes,yes,Flight to the Ford,4,The Fellowship of the Ring,1,12
+athelas (asëa aranion; kingsfoil),no,no,Flight to the Ford,1,The Fellowship of the Ring,1,12
+whortleberry (bilberry),yes,no,Flight to the Ford,1,The Fellowship of the Ring,1,12
+fern,yes,yes,Many Meetings,1,The Fellowship of the Ring,2,13
+butterbur,yes,yes,Many Meetings,1,The Fellowship of the Ring,2,13
+ebony,yes,no,Many Meetings,1,The Fellowship of the Ring,2,13
+peas,yes,no,Many Meetings,1,The Fellowship of the Ring,2,13
+apple,yes,yes,Many Meetings,1,The Fellowship of the Ring,2,13
+pine,yes,no,The Council of Elrond,1,The Fellowship of the Ring,2,14
+butterbur,yes,yes,The Council of Elrond,2,The Fellowship of the Ring,2,14
+nimloth,no,yes,The Council of Elrond,1,The Fellowship of the Ring,2,14
+galathilion (the tree of the high elves),no,yes,The Council of Elrond,1,The Fellowship of the Ring,2,14
+white tree (the tree),no,no,The Council of Elrond,3,The Fellowship of the Ring,2,14
+pine,yes,no,The Ring Goes South,1,The Fellowship of the Ring,2,15
+heather (ling),yes,yes,The Ring Goes South,1,The Fellowship of the Ring,2,15
+holly,yes,no,The Ring Goes South,3,The Fellowship of the Ring,2,15
+holly,yes,no,A Journey in the Dark,3,The Fellowship of the Ring,2,16
+galathilion (the tree of the high elves),no,yes,A Journey in the Dark,1,The Fellowship of the Ring,2,16
+,,,The Bridge of Khazad-dûm,0,The Fellowship of the Ring,2,17
+fir,yes,no,Lothlórien,4,The Fellowship of the Ring,2,18
+heather (ling),yes,yes,Lothlórien,1,The Fellowship of the Ring,2,18
+linden,yes,no,Lothlórien,1,The Fellowship of the Ring,2,18
+athelas (asëa aranion; kingsfoil),no,no,Lothlórien,2,The Fellowship of the Ring,2,18
+birch,yes,no,Lothlórien,1,The Fellowship of the Ring,2,18
+harts-tongue,yes,no,Lothlórien,1,The Fellowship of the Ring,2,18
+whortleberry (bilberry),yes,no,Lothlórien,1,The Fellowship of the Ring,2,18
+poplar,yes,no,Lothlórien,1,The Fellowship of the Ring,2,18
+mallorn (mellyrn),no,no,Lothlórien,6,The Fellowship of the Ring,2,18
+elanor,no,yes,Lothlórien,3,The Fellowship of the Ring,2,18
+niphredil,no,no,Lothlórien,2,The Fellowship of the Ring,2,18
+gorse (whin),yes,no,Lothlórien,1,The Fellowship of the Ring,2,18
+mallorn (mellyrn),no,no,The Mirror of Galadriel,2,The Fellowship of the Ring,2,19
+white tree (the tree),no,no,The Mirror of Galadriel,1,The Fellowship of the Ring,2,19
+mallorn (mellyrn),no,no,Farewell to Lórien,2,The Fellowship of the Ring,2,20
+elanor,no,yes,Farewell to Lórien,2,The Fellowship of the Ring,2,20
+laurelin (golden tree),no,yes,Farewell to Lórien,1,The Fellowship of the Ring,2,20
+brambles,yes,no,The Great River,2,The Fellowship of the Ring,2,21
+briar,yes,no,The Great River,1,The Fellowship of the Ring,2,21
+beech,yes,yes,The Great River,1,The Fellowship of the Ring,2,21
+sloe,yes,no,The Great River,1,The Fellowship of the Ring,2,21
+ivy,yes,yes,The Great River,1,The Fellowship of the Ring,2,21
+cockle,yes,no,The Great River,1,The Fellowship of the Ring,2,21
+reed,yes,no,The Great River,2,The Fellowship of the Ring,2,21
+rowan,yes,no,The Breaking of the Fellowship,2,The Fellowship of the Ring,2,22
+yew,yes,no,The Departure of Boromir,1,The Two Towers,3,23
+ash,yes,no,The Riders of Rohan,1,The Two Towers,3,24
+flax,yes,no,The Riders of Rohan,1,The Two Towers,3,24
+rush,yes,yes,The Riders of Rohan,1,The Two Towers,3,24
+beech,yes,yes,The Riders of Rohan,1,The Two Towers,3,24
+cress,yes,no,The Riders of Rohan,1,The Two Towers,3,24
+chestnut,yes,no,The Riders of Rohan,1,The Two Towers,3,24
+white tree (the tree),no,no,The Riders of Rohan,2,The Two Towers,3,24
+reed,yes,no,The Riders of Rohan,1,The Two Towers,3,24
+apple,yes,yes,The Uruk-hai,1,The Two Towers,3,25
+elm,yes,no,Treebeard,1,The Two Towers,3,26
+fir,yes,no,Treebeard,3,The Two Towers,3,26
+oak,yes,no,Treebeard,2,The Two Towers,3,26
+fern,yes,yes,Treebeard,1,The Two Towers,3,26
+brambles,yes,no,Treebeard,1,The Two Towers,3,26
+ash,yes,no,Treebeard,1,The Two Towers,3,26
+pine,yes,no,Treebeard,3,The Two Towers,3,26
+willow,yes,yes,Treebeard,2,The Two Towers,3,26
+linden,yes,no,Treebeard,1,The Two Towers,3,26
+beech,yes,yes,Treebeard,4,The Two Towers,3,26
+holly,yes,no,Treebeard,1,The Two Towers,3,26
+birch,yes,no,Treebeard,6,The Two Towers,3,26
+sloe,yes,no,Treebeard,1,The Two Towers,3,26
+rowan,yes,no,Treebeard,10,The Two Towers,3,26
+chestnut,yes,no,Treebeard,1,The Two Towers,3,26
+apple,yes,yes,Treebeard,3,The Two Towers,3,26
+cherry,yes,no,Treebeard,1,The Two Towers,3,26
+corn,yes,no,Treebeard,3,The Two Towers,3,26
+rose,yes,yes,Treebeard,1,The Two Towers,3,26
+bracken,yes,no,Treebeard,1,The Two Towers,3,26
+olive,yes,no,Treebeard,1,The Two Towers,3,26
+mallorn (mellyrn),no,no,The White Rider,2,The Two Towers,3,27
+sedge,yes,no,The White Rider,1,The Two Towers,3,27
+ash,yes,no,The King of the Golden Hall,1,The Two Towers,3,28
+willow,yes,yes,The King of the Golden Hall,2,The Two Towers,3,28
+corn,yes,no,The King of the Golden Hall,1,The Two Towers,3,28
+"evermind (alfirin, simbelmynë)",no,no,The King of the Golden Hall,2,The Two Towers,3,28
+reed,yes,no,The King of the Golden Hall,1,The Two Towers,3,28
+corn,yes,no,Helm's Deep,1,The Two Towers,3,29
+oak,yes,no,The Road to Isengard,1,The Two Towers,3,30
+brambles,yes,no,The Road to Isengard,1,The Two Towers,3,30
+rose,yes,yes,The Road to Isengard,1,The Two Towers,3,30
+saffron,yes,no,The Road to Isengard,1,The Two Towers,3,30
+"longbottom (galenas, westmansweed)",no,no,The Road to Isengard,1,The Two Towers,3,30
+old toby,no,no,The Road to Isengard,1,The Two Towers,3,30
+beech,yes,yes,Flotsam and Jetsam,1,The Two Towers,3,31
+southfarthing,no,no,Flotsam and Jetsam,1,The Two Towers,3,31
+"longbottom (galenas, westmansweed)",no,no,Flotsam and Jetsam,1,The Two Towers,3,31
+,,,The Voice of Saruman,0,The Two Towers,3,32
+heather (ling),yes,yes,The Palantír,1,The Two Towers,3,33
+bracken,yes,no,The Palantír,4,The Two Towers,3,33
+hawthorn,yes,no,The Palantír,1,The Two Towers,3,33
+telperion (eldest of trees; silver tree),no,yes,The Palantír,1,The Two Towers,3,33
+laurelin (golden tree),no,yes,The Palantír,1,The Two Towers,3,33
+white tree (the tree),no,no,The Palantír,1,The Two Towers,3,33
+fir,yes,no,The Taming of Sméagol,1,The Two Towers,4,34
+birch,yes,no,The Taming of Sméagol,1,The Two Towers,4,34
+reed,yes,no,The Passage of the Marshes,4,The Two Towers,4,35
+willow,yes,yes,The Black Gate is Closed,1,The Two Towers,4,36
+telperion (eldest of trees; silver tree),no,yes,The Black Gate is Closed,1,The Two Towers,4,36
+white tree (the tree),no,no,The Black Gate is Closed,1,The Two Towers,4,36
+fir,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+hazel (filbert),yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+fern,yes,yes,Of Herbs and Stewed Rabbit,12,The Two Towers,4,37
+pine,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+water-lily,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+heather (ling),yes,yes,Of Herbs and Stewed Rabbit,3,The Two Towers,4,37
+briar,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+rose,yes,yes,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+bracken,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+broom,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+cornel,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+cedar,yes,no,Of Herbs and Stewed Rabbit,3,The Two Towers,4,37
+potatoes (taters),yes,no,Of Herbs and Stewed Rabbit,9,The Two Towers,4,37
+bay,yes,no,Of Herbs and Stewed Rabbit,5,The Two Towers,4,37
+thyme,yes,no,Of Herbs and Stewed Rabbit,2,The Two Towers,4,37
+sage,yes,no,Of Herbs and Stewed Rabbit,2,The Two Towers,4,37
+turnips,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+carrots,yes,no,Of Herbs and Stewed Rabbit,2,The Two Towers,4,37
+anemone,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+stonecrop,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+lily,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+larch,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+cypress,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+tamarisk,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+terebinth,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+olive,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+juniper,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+myrtle,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+parsley (wood-parsley),yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+marjoram,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+saxifrage,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+onion,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+primerole,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+asphodel,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+iris,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+eglantine,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+clematis,yes,no,Of Herbs and Stewed Rabbit,1,The Two Towers,4,37
+fern,yes,yes,The Window on the West,1,The Two Towers,4,38
+ilex,yes,no,The Window on the West,1,The Two Towers,4,38
+box-wood,yes,no,The Window on the West,2,The Two Towers,4,38
+daffadowndilly,yes,no,The Window on the West,1,The Two Towers,4,38
+daisies,yes,no,The Window on the West,1,The Two Towers,4,38
+white tree (the tree),no,no,The Window on the West,1,The Two Towers,4,38
+reed,yes,no,The Window on the West,2,The Two Towers,4,38
+,,,The Forbidden Pool,0,The Two Towers,4,39
+oak,yes,no,Journey to the Cross-Roads,2,The Two Towers,4,40
+brambles,yes,no,Journey to the Cross-Roads,2,The Two Towers,4,40
+ash,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+briar,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+whortleberry (bilberry),yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+bracken,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+ilex,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+lebethron,no,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+celandine,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+anemone,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+hyacinth,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+holm oak,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+gorse (whin),yes,no,Journey to the Cross-Roads,2,The Two Towers,4,40
+stonecrop,yes,no,Journey to the Cross-Roads,1,The Two Towers,4,40
+,,,The Stairs of Cirith Ungol,0,The Two Towers,4,41
+hemlock,yes,no,Shelob's Lair,1,The Two Towers,4,42
+,,,The Choices of Master Samwise,0,The Two Towers,4,43
+apple,yes,yes,Minas Tirith,2,The Return of the King,5,44
+white tree (the tree),no,no,Minas Tirith,4,The Return of the King,5,44
+fir,yes,no,The Passing of the Grey Company,1,The Return of the King,5,45
+"evermind (alfirin, simbelmynë)",no,no,The Passing of the Grey Company,1,The Return of the King,5,45
+fir,yes,no,The Muster of Rohan,1,The Return of the King,5,46
+oak,yes,no,The Muster of Rohan,1,The Return of the King,5,46
+pine,yes,no,The Muster of Rohan,2,The Return of the King,5,46
+willow,yes,yes,The Muster of Rohan,1,The Return of the King,5,46
+nimloth,no,yes,The Siege of Gondor,1,The Return of the King,5,47
+white tree (the tree),no,no,The Siege of Gondor,1,The Return of the King,5,47
+pine,yes,no,The Ride of the Rohirrim,1,The Return of the King,5,48
+white tree (the tree),no,no,The Battle of the Pelennor Fields,1,The Return of the King,5,49
+,,,The Pyre of Denethor,0,The Return of the King,5,50
+heather (ling),yes,yes,The Houses of Healing,1,The Return of the King,5,51
+athelas (asëa aranion; kingsfoil),no,no,The Houses of Healing,13,The Return of the King,5,51
+rose,yes,yes,The Houses of Healing,1,The Return of the King,5,51
+lily,yes,no,The Houses of Healing,2,The Return of the King,5,51
+"longbottom (galenas, westmansweed)",no,no,The Houses of Healing,3,The Return of the King,5,51
+elm,yes,no,The Last Debate,1,The Return of the King,5,52
+willow,yes,yes,The Last Debate,1,The Return of the King,5,52
+beech,yes,yes,The Last Debate,1,The Return of the King,5,52
+"evermind (alfirin, simbelmynë)",no,no,The Last Debate,1,The Return of the King,5,52
+lily,yes,no,The Last Debate,1,The Return of the King,5,52
+golden bells,yes,no,The Last Debate,1,The Return of the King,5,52
+mallos,no,no,The Last Debate,1,The Return of the King,5,52
+white tree (the tree),no,no,The Last Debate,1,The Return of the King,5,52
+white tree (the tree),no,no,The Black Gate Opens,1,The Return of the King,5,53
+beech,yes,yes,The Tower of Cirith Ungol,1,The Return of the King,6,54
+brambles,yes,no,The Land of Shadow,3,The Return of the King,6,55
+briar,yes,no,The Land of Shadow,3,The Return of the King,6,55
+willow,yes,yes,Mount Doom,1,The Return of the King,6,56
+rose,yes,yes,Mount Doom,2,The Return of the King,6,56
+cotton,yes,yes,Mount Doom,2,The Return of the King,6,56
+marigold,yes,yes,Mount Doom,1,The Return of the King,6,56
+beech,yes,yes,The Field of Cormallen,2,The Return of the King,6,57
+white tree (the tree),no,no,The Field of Cormallen,1,The Return of the King,6,57
+lebethron,no,no,The Steward and the King,1,The Return of the King,6,58
+nimloth,no,yes,The Steward and the King,1,The Return of the King,6,58
+galathilion (the tree of the high elves),no,yes,The Steward and the King,1,The Return of the King,6,58
+telperion (eldest of trees; silver tree),no,yes,The Steward and the King,3,The Return of the King,6,58
+white tree (the tree),no,no,The Steward and the King,6,The Return of the King,6,58
+willow,yes,yes,Many Partings,1,The Return of the King,6,59
+butterbur,yes,yes,Many Partings,1,The Return of the King,6,59
+"evermind (alfirin, simbelmynë)",no,no,Many Partings,1,The Return of the King,6,59
+white tree (the tree),no,no,Many Partings,1,The Return of the King,6,59
+southfarthing,no,no,Many Partings,1,The Return of the King,6,59
+reed,yes,no,Many Partings,1,The Return of the King,6,59
+fern,yes,yes,Homeward Bound,3,The Return of the King,6,60
+heather (ling),yes,yes,Homeward Bound,1,The Return of the King,6,60
+butterbur,yes,yes,Homeward Bound,20,The Return of the King,6,60
+barley,yes,yes,Homeward Bound,1,The Return of the King,6,60
+apple,yes,yes,Homeward Bound,2,The Return of the King,6,60
+southlinch,no,no,Homeward Bound,1,The Return of the King,6,60
+southfarthing,no,no,Homeward Bound,2,The Return of the King,6,60
+fern,yes,yes,The Scouring of the Shire,3,The Return of the King,6,61
+chestnut,yes,no,The Scouring of the Shire,1,The Return of the King,6,61
+corn,yes,no,The Scouring of the Shire,1,The Return of the King,6,61
+rose,yes,yes,The Scouring of the Shire,9,The Return of the King,6,61
+potatoes (taters),yes,no,The Scouring of the Shire,1,The Return of the King,6,61
+cotton,yes,yes,The Scouring of the Shire,37,The Return of the King,6,61
+southfarthing,no,no,The Scouring of the Shire,2,The Return of the King,6,61
+lobelia,yes,yes,The Scouring of the Shire,1,The Return of the King,6,61
+"longbottom (galenas, westmansweed)",no,no,The Scouring of the Shire,1,The Return of the King,6,61
+oak,yes,no,The Grey Havens,1,The Return of the King,6,62
+hazel (filbert),yes,no,The Grey Havens,1,The Return of the King,6,62
+barley,yes,yes,The Grey Havens,1,The Return of the King,6,62
+mallorn (mellyrn),no,no,The Grey Havens,2,The Return of the King,6,62
+elanor,no,yes,The Grey Havens,4,The Return of the King,6,62
+corn,yes,no,The Grey Havens,1,The Return of the King,6,62
+rose,yes,yes,The Grey Havens,13,The Return of the King,6,62
+cotton,yes,yes,The Grey Havens,5,The Return of the King,6,62
+southfarthing,no,no,The Grey Havens,1,The Return of the King,6,62
+strawberries,yes,no,The Grey Havens,1,The Return of the King,6,62
+plum,yes,no,The Grey Havens,1,The Return of the King,6,62
+goldilocks,yes,yes,The Grey Havens,1,The Return of the King,6,62
+lobelia,yes,yes,The Grey Havens,1,The Return of the King,6,62

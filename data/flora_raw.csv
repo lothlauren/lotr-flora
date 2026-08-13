@@ -1,0 +1,117 @@
+plant,real,name,fotr,tt,rotk
+elm,,,"the shadow of the past;3,a short cut to mushrooms;2",treebeard;1,the last debate;1
+alder,,,"three is company;1,the old forest;1,a knife in the dark;1",,
+fir,,,"three is company;3,flight to the ford;1,lothlórien;4","treebeard;3,the taming of sméagol;1,of herbs and stewed rabbit;1","the passing of the grey company;1,the muster of rohan;1"
+oak,,,"three is company;2,a short cut to mushrooms;1,the old forest;1","treebeard;2,the road to isengard;1,journey to the cross-roads;2","the muster of rohan;1,the grey havens;1"
+hazel (filbert),,,"three is company;1,flight to the ford;1",of herbs and stewed rabbit;1,the grey havens;1
+fern,,yes,"a short cut to mushrooms;1,at the sign of the prancing pony;1,strider;6,a knife in the dark;10,flight to the ford;2,many meetings;1","treebeard;1,of herbs and stewed rabbit;12,the window on the west;1","homeward bound;3,the scouring of the shire;3"
+brambles,,,"a short cut to mushrooms;1,the old forest;1,in the house of tom bombadil;1,the great river;2","treebeard;1,the road to isengard;1,journey to the cross-roads;2",the land of shadow;3
+ash,,,"a short cut to mushrooms;1,the old forest;2","the riders of rohan;1,treebeard;1,the king of the golden hall;1,journey to the cross-roads;1",
+hemlock,,,"the old forest;1,a knife in the dark;3",shelob's lair;1,
+nettle,,,the old forest;1,,
+fire-weed,,,the old forest;1,,
+pine,,,"the old forest;1,flight to the ford;4,the council of elrond;1,the ring goes south;1","treebeard;3,of herbs and stewed rabbit;1","the muster of rohan;2,the ride of the rohirrim;1"
+willow,,yes,"three is company;1,the old forest;22,in the house of tom bombadil;11,fog on the barrow-downs;2","treebeard;2,the king of the golden hall;2,the black gate is closed;1","the muster of rohan;1,the last debate;1,mount doom;1,many partings;1"
+water-lily,,,"the old forest;7,in the house of tom bombadil;4",of herbs and stewed rabbit;1,
+heather (ling),,yes,"the old forest;1,at the sign of the prancing pony;1,flight to the ford;4,the ring goes south;1,lothlórien;1","the palantír;1,of herbs and stewed rabbit;3","the houses of healing;1,homeward bound;1"
+flag-lily,,,in the house of tom bombadil;1,,
+forget-me-not,,,in the house of tom bombadil;2,,
+beans,,,in the house of tom bombadil;2,,
+flax,,,fog on the barrow-downs;1,the riders of rohan;1,
+butterbur,,yes,"fog on the barrow-downs;1,at the sign of the prancing pony;19,strider;20,a knife in the dark;8,many meetings;1,the council of elrond;2",,"many partings;1,homeward bound;20"
+rush,,yes,"a short cut to mushrooms;1,the old forest;1,in the house of tom bombadil;3,at the sign of the prancing pony;1,a knife in the dark;1",the riders of rohan;1,
+briar,,,"a short cut to mushrooms;1,the great river;1","of herbs and stewed rabbit;1,journey to the cross-roads;1",the land of shadow;3
+thistle,,yes,"the old forest;1,at the sign of the prancing pony;1",,
+mugwort,,yes,at the sign of the prancing pony;4,,
+barley,,yes,"at the sign of the prancing pony;1,strider;3",,"homeward bound;1,the grey havens;1"
+blackberry,,,at the sign of the prancing pony;1,,
+linden,,,"a knife in the dark;1,lothlórien;1",treebeard;1,
+beech,,yes,"a knife in the dark;1,the great river;1","the riders of rohan;1,treebeard;4,flotsam and jetsam;1","the last debate;1,the tower of cirith ungol;1,the field of cormallen;2"
+athelas (asëa aranion; kingsfoil),no,,"flight to the ford;1,lothlórien;2",,the houses of healing;13
+ebony,,,many meetings;1,,
+peas,,,many meetings;1,,
+holly,,,"the ring goes south;3,a journey in the dark;3",treebeard;1,
+birch,,,"three is company;1,lothlórien;1","treebeard;6,the taming of sméagol;1",
+harts-tongue,,,lothlórien;1,,
+whortleberry (bilberry),,,"flight to the ford;1,lothlórien;1",journey to the cross-roads;1,
+poplar,,,lothlórien;1,,
+mallorn (mellyrn),no,,"lothlórien;6,the mirror of galadriel;2,farewell to lórien;2",the white rider;2,the grey havens;2
+elanor,no,yes,"lothlórien;3,farewell to lórien;2",,the grey havens;4
+niphredil,no,,lothlórien;2,,
+sloe,,,"three is company;1,the great river;1",treebeard;1,
+ivy,,yes,"a long-expected party;1,three is company;1,the great river;1",,
+cockle,,,the great river;1,,
+rowan,,,the breaking of the fellowship;2,treebeard;10,
+cress,,,,the riders of rohan;1,
+chestnut,,,,"the riders of rohan;1,treebeard;1",the scouring of the shire;1
+apple,,yes,"three is company;3,the old forest;1,in the house of tom bombadil;1,at the sign of the prancing pony;1,a knife in the dark;4,many meetings;1","the uruk-hai;1,treebeard;3","minas tirith;2,homeward bound;2"
+cherry,,,,treebeard;1,
+corn,,,three is company;1,"treebeard;3,the king of the golden hall;1,helm's deep;1","the scouring of the shire;1,the grey havens;1"
+rose,,yes,,"treebeard;1,the road to isengard;1,of herbs and stewed rabbit;1","the houses of healing;1,mount doom;2,the scouring of the shire;9,the grey havens;13"
+bracken,,,,"treebeard;1,the palantír;4,of herbs and stewed rabbit;1,journey to the cross-roads;1",
+yew,,,,the departure of boromir;1,
+sedge,,,,the white rider;1,
+"evermind (alfirin, simbelmynë)",no,,,the king of the golden hall;2,"the passing of the grey company;1,the last debate;1,many partings;1"
+saffron,,,,the road to isengard;1,
+hawthorn,,,,the palantír;1,
+broom,,,,of herbs and stewed rabbit;1,
+cornel,,,,of herbs and stewed rabbit;1,
+cedar,,,,of herbs and stewed rabbit;3,
+potatoes (taters),,,a long-expected party;3,of herbs and stewed rabbit;9,the scouring of the shire;1
+bay-leaf,,,,of herbs and stewed rabbit;5,
+thyme,,,,of herbs and stewed rabbit;2,
+sage,,,,of herbs and stewed rabbit;2,
+turnips,,,a short cut to mushrooms;1,of herbs and stewed rabbit;1,
+carrots,,,,of herbs and stewed rabbit;2,
+ilex,,,,"the window on the west;1,journey to the cross-roads;1",
+box-wood,,,,the window on the west;2,
+daffadowndilly,,,,the window on the west;1,
+daisies,,,,the window on the west;1,
+lebethron,no,,,journey to the cross-roads;1,the steward and the king;1
+celandine,,,,journey to the cross-roads;1,
+anemone,,,,"of herbs and stewed rabbit;1,journey to the cross-roads;1",
+hyacinth,,,,journey to the cross-roads;1,
+holm oak,,,,journey to the cross-roads;1,
+gorse (whin),,,lothlórien;1,journey to the cross-roads;2,
+stonecrop,,,,"of herbs and stewed rabbit;1,journey to the cross-roads;1",
+lily,,,,of herbs and stewed rabbit;1,"the houses of healing;2,the last debate;1"
+golden bells,,,,,the last debate;1
+mallos,no,,,,the last debate;1
+cotton,,yes,,,"mount doom;2,the scouring of the shire;37,the grey havens;5"
+marigold,,yes,,,mount doom;1
+nimloth,no,yes,the council of elrond;1,,"the siege of gondor;1,the steward and the king;1"
+galathilion (the tree of the high elves),no,yes,"the council of elrond;1,a journey in the dark;1",,the steward and the king;1
+telperion (eldest of trees; silver tree),no,yes,,"the palantír;1,the black gate is closed;1",the steward and the king;3
+laurelin (golden tree),no,yes,farewell to lórien;1,"the palantír;1, the black gate is closed;1",
+white tree (the tree),no,,"the council of elrond;3,the mirror of galadriel;1","the riders of rohan;2,the palantír;1,the black gate is closed;1,the window on the west;1","minas tirith;4,the siege of gondor;1,the battle of the pelennor fields;1,the last debate;1,the black gate opens;1,the field of cormallen;1,the steward and the king;6,many partings;1"
+southlinch,no,,,,homeward bound;1
+southfarthing,no,,,flotsam and jetsam;1,"many partings;1,homeward bound;2,the scouring of the shire;2,the grey havens;1"
+strawberries,,,,,the grey havens;1
+plum,,,,,the grey havens;1
+goldilocks,,yes,,,the grey havens;1
+primula,,yes,a long-expected party;1,,
+cabbages,,,a long-expected party;1,,
+snapdragon,,,a long-expected party;1,,
+sunflower,,,a long-expected party;1,,
+nasturtian,,,a long-expected party;1,,
+melilot,,yes,a long-expected party;1,,
+lobelia,,yes,"a long-expected party;8,three is company;5",,"the scouring of the shire;1,the grey havens;1"
+larch,,,,of herbs and stewed rabbit;1,
+cypress,,,,of herbs and stewed rabbit;1,
+tamarisk,,,,of herbs and stewed rabbit;1,
+terebinth,,,,of herbs and stewed rabbit;1,
+olive,,,,"treebeard;1,of herbs and stewed rabbit;1",
+juniper,,,,of herbs and stewed rabbit;1,
+myrtle,,,,of herbs and stewed rabbit;1,
+parsley (wood-parsley),,,the old forest;1,of herbs and stewed rabbit;1,
+marjoram,,,,of herbs and stewed rabbit;1,
+saxifrage,,,,of herbs and stewed rabbit;1,
+onion,,,,of herbs and stewed rabbit;1,
+primerole,,,,of herbs and stewed rabbit;1,
+asphodel,,,,of herbs and stewed rabbit;1,
+iris,,,the shadow of the past;1,of herbs and stewed rabbit;1,
+eglantine,,,,of herbs and stewed rabbit;1,
+clematis,,,,of herbs and stewed rabbit;1,
+"longbottom (galenas, westmansweed)",no,,,"the road to isengard;1,flotsam and jetsam;1","the houses of healing;3,the scouring of the shire;1"
+reed,,,"the shadow of the past;2,a conspiracy unmasked;1,the old forest;6,in the house of tom bombadil;2,fog on the barrow-downs;1,a knife in the dark;3,the great river;2","the riders of rohan;1,the king of the golden hall;1,the passage of the marshes;4,the window on the west;2",many partings;1
+old toby,no,,,the road to isengard;1,
